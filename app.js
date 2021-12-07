@@ -13,10 +13,7 @@ const flagsEl = document.getElementById('flags-list');
 const moviesEl = document.getElementById('movies-list');
 const postsEl = document.getElementById('posts-list');
 // initialize global state
-console.log(planetsEl);
-console.log(flagsEl);
-console.log(moviesEl);
-console.log(postsEl);
+
 // set event listeners 
   // get user input
   // use user input to update state 
