@@ -31,4 +31,4 @@ export const movies = [
             img: 'https://m.media-amazon.com/images/M/MV5BMTQ2NTk4MjE5Ml5BMl5BanBnXkFtZTgwODIwNjYxMTE@._V1_FMjpg_UX1000_.jpg'
         }
     }
-]
+];
